@@ -35,6 +35,17 @@ No gitbash do seu repositório:
 4) git commit -m "Nome do commit"
 5) git push
 
+6) OBS Se pedir para logar:
 
+1) git config --global user.email "you@example.com"
+2) git config --global user.name "Your Name"
+3) E confirmar na caixa
 
+# Branch
+
+1) Criar uma nova branch chamada dev
+
+No terminal:
+1) git fetch
+2) git checkout NOME DA BRANCH
 

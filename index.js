@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get("/", (req, res) => {
-  res.send("Junior, Junior");
+  res.send("Olá Troquei de brach");
 });
 
 
