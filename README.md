@@ -50,6 +50,4 @@ No terminal:
 2) git checkout NOME DA BRANCH
 
 No github:
-1) Criar uma nova brach
-2) Digitar os comandos
 3) Criar Pull Request e aprovar
